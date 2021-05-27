@@ -1,4 +1,5 @@
 # Tool: RRuR
+Brute force tool to fuzz webpages.
 ## Prerequirements
 Golang installed
 
